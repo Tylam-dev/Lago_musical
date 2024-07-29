@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lago_musical")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8440f557d965af955c5c3b6d54cb924f5a7e623")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+416a5515414a7fa3cc4f2559033332db7e40cc8c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lago_musical")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lago_musical")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
