@@ -1,0 +1,15 @@
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/bin/Debug/net8.0/Lago_musical
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/bin/Debug/net8.0/Lago_musical.deps.json
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/bin/Debug/net8.0/Lago_musical.runtimeconfig.json
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/bin/Debug/net8.0/Lago_musical.dll
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/bin/Debug/net8.0/Lago_musical.pdb
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.AssemblyInfoInputs.cache
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.AssemblyInfo.cs
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.csproj.CoreCompileInputs.cache
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.sourcelink.json
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.dll
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/refint/Lago_musical.dll
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.pdb
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/Lago_musical.genruntimeconfig.cache
+/Users/tyronevera/Documents/programacion/prueba_tecnica/Lago_musical/obj/Debug/net8.0/ref/Lago_musical.dll
